@@ -4,3 +4,9 @@
     Glowing Text
   </h1>
 </div>
+<div style="text-align: center; background-color: #282c34; padding: 20px; border-radius: 10px;">
+  <h2 style="color: #61dafb;">My Skills</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="My Skills">
+  </a>
+</div>

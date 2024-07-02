@@ -10,3 +10,15 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="My Skills">
   </a>
 </div>
+# Welcome to My GitHub
+
+![Glowing Text](https://your-repository-link/your-image-file.png)
+
+## My Skills
+
+<div style="text-align: center; background-color: #282c34; padding: 20px; border-radius: 10px;">
+  <h2 style="color: #61dafb;">My Skills</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="My Skills">
+  </a>
+</div>
